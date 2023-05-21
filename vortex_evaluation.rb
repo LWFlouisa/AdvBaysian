@@ -54,7 +54,11 @@ def vortex_shuffle
   system("#{scrambled_ruleset[row_1]}")
 end
 
-vortex_standard  # Use Tesla Vortex as row choice.
+standard_procedure = true
 
-# shuffle_rules    # If desired, shuffle ruleset. Otherwise comment out.
-# vortex_shuffle
+if standard_procedure == true
+  vortex_standard  # Follow standard preexisting ruleset.
+else
+  shuffle_rules    # If desired, shuffle ruleset. Otherwise comment out.
+  vortex_shuffle   # Adapt to a randomized ruleset.
+end
