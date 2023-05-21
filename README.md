@@ -9,37 +9,3 @@ Vortex Standard - This switches rows in the known ruleset based on modular arith
 Shuffled Vortex - This procedure uses the shuffled ruleset which is always random.
 Adaptive Vortex - Not yet implemented. Vortex procedure based on a "mode" of the known ruleset that isn't random.
 ~~~
-
-## Use Cases
-Beyond machine learning, the best use case is in using the terminal to play predefined Xenharmonic tones.
-
-Ex. Standard Mode
-
-~~~
-Major                   Minor
-Ne      240.01200       Ne      240.01200
-Wo      254.28400       Wo      247.14800
-Re      320.37750       Re      320.37750
-Ro      339.42800       Ro      339.42800
-Vi      380.99450       Vi      380.99450
-Xi      480.02350       Xi      480.02350
-Ve      508.56700       Ve      508.56700
-~~~
-
-For an adaptive mode:
-
-~~~
-Major                   Minor
-Ve      508.56700       Ve      508.56700
-Ne      240.01200       Ne      240.01200
-Wo      254.28400       Wo      247.14800
-Re      320.37750       Re      320.37750
-Ro      339.42800       Ro      339.42800
-Vi      380.99450       Vi      380.99450
-Xi      480.02350       Xi      480.02350
-~~~
-
-This way you can test out certain modes before creating actual electronic music. This is limited to Pentamicrotonic music that can't be performed on live instruments.
-
-## Other Use Cases
-Eventually you can also apply similar concepts to peaceful use of robotics.
