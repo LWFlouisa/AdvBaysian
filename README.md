@@ -11,7 +11,7 @@ Adaptive Vortex - Not yet implemented. Vortex procedure based on a "mode" of the
 ~~~
 
 ## Use Cases
-For non machine learning, the best use case is in using the terminal to play predefined music tones.
+Beyond machine learning, the best use case is in using the terminal to play predefined Xenharmonic tones.
 
 Ex. Standard Mode
 
@@ -40,3 +40,6 @@ Xi      480.02350       Xi      480.02350
 ~~~
 
 This way you can test out certain modes before creating actual electronic music.
+
+## Other Use Cases
+Eventually you can also apply similar concepts to peaceful use of robotics.
