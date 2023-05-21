@@ -39,7 +39,7 @@ Vi      380.99450       Vi      380.99450
 Xi      480.02350       Xi      480.02350
 ~~~
 
-This way you can test out certain modes before creating actual electronic music. This is limited to Pentatonic music currently.
+This way you can test out certain modes before creating actual electronic music. This is limited to Pentamicrotonic music that can't be performed on live instruments.
 
 ## Other Use Cases
 Eventually you can also apply similar concepts to peaceful use of robotics.
