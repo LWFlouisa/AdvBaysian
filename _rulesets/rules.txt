@@ -1,3 +1,4 @@
 cd BayesTest; ruby conlang_loaderV2.rb
 cd Memories; ruby get_memories.rb
 cd Recognition; ruby recognition_loader.rb
+cd ProcessOfElimination; ruby find_candidate.rb
